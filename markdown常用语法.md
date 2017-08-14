@@ -9,7 +9,7 @@
 
 # 锚点
 
-[问内连接](#user-content-锚点)
+[问内连接](https://zhuanlan.zhihu.com/p/25464162)
 
 
 ### 引用 Markdown 标记区块引用是使用类似 email 中用 > 的引用方式，只需要在整个段落的第一行最前面加上 > ：
